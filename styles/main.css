@@ -46,3 +46,13 @@ h2{
     font-size: 20pt;
     line-height: 50px;
 }
+footer ul{
+	margin: 8% 40%;
+}
+footer li{
+	 display: inline;
+	 margin: 0 10px;
+}
+footer a img{
+	height: 40px;
+}
