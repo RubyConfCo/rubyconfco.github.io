@@ -29,17 +29,18 @@ body {
 
 img.logo{
     position: relative;
-    margin: 8% 25%;
+		margin: 8% 25% 5% 25%;
+		height: 35%;
 }
 
-h1, h2, h2 a{
+h1, h2, h1 a, h2 a{
     color: #FFF;
     text-align: center;
 }
 
 h1{
     font-size: 40pt;
-    line-height: 70px;
+    line-height: 120px;
 }
 
 h2{
